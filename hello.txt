@@ -6,3 +6,4 @@ I will do it
 中文可以吗？
 测试一下
 master test
+hot-fix test
