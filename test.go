@@ -27,5 +27,6 @@ func main() {
 		}
 		fmt.Println()
 	}
+	fmt.Println("github pull test")
 
 }
